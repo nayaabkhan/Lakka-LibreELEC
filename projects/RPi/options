@@ -161,3 +161,7 @@
 
   # debug tty path
     DEBUG_TTY="/dev/console"
+
+  # Disable VPN
+    WIREGUARD_SUPPORT="no"
+    OPENVPN_SUPPORT="no"
